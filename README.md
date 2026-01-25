@@ -1,7 +1,8 @@
-📖BookFlow
+#📖BookFlow
+BookFlow es una aplicación web para el descubrimiento de libros y recomendaciones literarias que permite organizar lecturas personales y compartir opiniones.
 
 
-👨🏼‍🏫Tutorías
+#👨🏼‍🏫Tutorías
 
 Resumen de las tutorías
 
