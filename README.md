@@ -34,7 +34,7 @@ El proyecto nace de la necesidad de modernizar aplicaciones como Goodreads, cuya
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tecnologías
 
 * **Lenguajes:** JavaScript, SQL y CSS3.
 * **Tecnologías Frontend:** React y Tailwind CSS para el estilo.
